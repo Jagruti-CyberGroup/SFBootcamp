@@ -1,5 +1,5 @@
 public class CampaignCaseGen {
-    //first commit from CampaignCaseGen class
+    //first commit from CampaignCaseGen classes
     /*private Campaign_case__c cas;
     private Messaging.InboundEmail email;
     private Messaging.InboundEnvelope env;
